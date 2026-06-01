@@ -12,3 +12,4 @@
 11. git merge rama-heroes
 12. git branch -d rama-heroes borrar rama
 13. git push
+14. git commit -am para no poner add y commit siempre
